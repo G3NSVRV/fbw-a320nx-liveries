@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "Aircraft Livery",
+  "title": "Sky Airline",
+  "manufacturer": "Airbus",
+  "creator": "g3nsvrv", 
+  "package_version": "0.2.2", 
+  "minimum_game_version": "1.7.12", 
+  "release_notes": { 
+     "neutral": { 
+       "LastUpdate": "",
+       "OlderHistory": "" 
+    }
+  }
+}
