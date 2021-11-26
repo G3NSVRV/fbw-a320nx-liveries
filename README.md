@@ -1,5 +1,5 @@
 ## Airbus A320 Neo Sky Airline
-This Started as some hobby project to recreate accurately the SKY Airline Livery for CC-AZC using only Photoshop at the moment, learning how to use Blender.
+This started as some hobby project to recreate accurately the SKY Airline Livery for CC-AZC using only Photoshop at the moment, learning how to use Blender.
 
 I hope you find it useful, and for any comments or suggestion please open a [new issue here](https://github.com/G3NSVRV/fbw-a32nx-liveries/issues).
 
